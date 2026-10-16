@@ -1,0 +1,9 @@
+SV001	22	Viêm họng
+SV003	NONE	Ho khan
+SV005	19	Viêm phổi
+SV009	21	Đau đầu
+SV013	20	Đau mắt đỏ
+SV018	20	Đau mắt đỏ
+SV019	20	Sốt virus
+SV020	21	Cúm A
+SV007	20	NONE

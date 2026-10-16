@@ -1,0 +1,4 @@
+Tong so ho so trong file 1: 25
+So ban ghi trung trong file 1: 6
+So ma tim thay: 9
+So ma khong tim thay: 0

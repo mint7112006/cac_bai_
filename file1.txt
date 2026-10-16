@@ -1,0 +1,25 @@
+SV001	20	Sốt xuất huyết
+SV002	21	Cảm cúm
+SV001	20	Sốt xuất huyết
+SV003	22	Viêm họng
+SV004		Ho khan
+SV005	19	Viêm phổi
+SV002	21	Cảm cúm
+SV006	23	Đau dạ dày
+SV007	20	
+SV003		Ho khan
+SV008	22	Sốt virus
+SV001	22	Viêm họng
+SV009	21	Đau đầu
+SV010	25	Viêm xoang
+SV006	23	Đau dạ dày
+SV011		Viêm phế quản
+SV012	24	Tiêu chảy
+SV008	22	Sốt virus
+SV013	20	Đau mắt đỏ
+SV014	21	Cúm A
+SV017		Viêm phế quản
+SV015	24	Tiêu chảy
+SV019	20	Sốt virus
+SV018	20	Đau mắt đỏ
+SV020	21	Cúm A
